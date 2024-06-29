@@ -121,7 +121,7 @@
     ora "5.4.1"
     rxjs "7.8.1"
 
-"@angular/animations@^17.0.0 || ^18.0.0", "@angular/animations@^18.0.5", "@angular/animations@18.0.5":
+"@angular/animations@^18.0.0 || ^19.0.0", "@angular/animations@^18.0.5", "@angular/animations@18.0.5":
   version "18.0.5"
   resolved "https://registry.npmjs.org/@angular/animations/-/animations-18.0.5.tgz"
   integrity sha512-RYwlS+4I33beAWdzFFmaDPqXZN+r66qPzzMOk9LQguwF76eBJbykHniODalSLvjrY6Iz7CULavByYNpzq2TT7A==
@@ -159,10 +159,10 @@
     vite "5.2.11"
     watchpack "2.4.1"
 
-"@angular/cdk@^17.0.4", "@angular/cdk@17.2.2":
-  version "17.2.2"
-  resolved "https://registry.npmjs.org/@angular/cdk/-/cdk-17.2.2.tgz"
-  integrity sha512-no3FownDI+05SvCGOxduramTJw+V5p/rKebz4msZbsAXXLnOScZPN2rDgMKShl2dQokc6gjsKXsy8fAYpx7NSQ==
+"@angular/cdk@^18.0.5", "@angular/cdk@18.0.5":
+  version "18.0.5"
+  resolved "https://registry.npmjs.org/@angular/cdk/-/cdk-18.0.5.tgz"
+  integrity sha512-Yf94Udxip8xjVIJlxwh80h6fUpX5JFcBv3FCFer7DU/YzWdoTL+BTIYF8og+NjlDRt1nSbTxdyU2LVI0rTVkpg==
   dependencies:
     tslib "^2.3.0"
   optionalDependencies:
@@ -191,7 +191,7 @@
     symbol-observable "4.0.0"
     yargs "17.7.2"
 
-"@angular/common@^17.0.0 || ^18.0.0", "@angular/common@^18.0.0", "@angular/common@^18.0.5", "@angular/common@18.0.5":
+"@angular/common@^18.0.0", "@angular/common@^18.0.0 || ^19.0.0", "@angular/common@^18.0.5", "@angular/common@18.0.5":
   version "18.0.5"
   resolved "https://registry.npmjs.org/@angular/common/-/common-18.0.5.tgz"
   integrity sha512-yItVQSu+Rx8gthWJDTOHwbzItY8/lqmmmYA1RMex0u3GkJoX3/3TZSGXbbBXl8GH8vmQOfp9yj3C02JmlwldRg==
@@ -224,7 +224,7 @@
   resolved "https://registry.npmjs.org/@angular/compiler/-/compiler-9.0.0.tgz"
   integrity sha512-ctjwuntPfZZT2mNj2NDIVu51t9cvbhl/16epc5xEwyzyDt76pX9UgwvY+MbXrf/C/FWwdtmNtfP698BKI+9leQ==
 
-"@angular/core@^17.0.0 || ^18.0.0", "@angular/core@^18.0.0", "@angular/core@^18.0.5", "@angular/core@18.0.5":
+"@angular/core@^18.0.0", "@angular/core@^18.0.0 || ^19.0.0", "@angular/core@^18.0.5", "@angular/core@18.0.5":
   version "18.0.5"
   resolved "https://registry.npmjs.org/@angular/core/-/core-18.0.5.tgz"
   integrity sha512-0UuL+aMMWGYksz09YBsiHq1li7GmL8obB3IC3T5MwDqnn7FGRUBfBUOZEkM6B+pwgg+RAtNdJkbCfbh1z74bFQ==
@@ -236,7 +236,7 @@
   resolved "https://registry.npmjs.org/@angular/core/-/core-9.0.0.tgz"
   integrity sha512-6Pxgsrf0qF9iFFqmIcWmjJGkkCaCm6V5QNnxMy2KloO3SDq6QuMVRbN9RtC8Urmo25LP+eZ6ZgYqFYpdD8Hd9w==
 
-"@angular/forms@^17.0.0 || ^18.0.0", "@angular/forms@^18.0.5":
+"@angular/forms@^18.0.0 || ^19.0.0", "@angular/forms@^18.0.5":
   version "18.0.5"
   resolved "https://registry.npmjs.org/@angular/forms/-/forms-18.0.5.tgz"
   integrity sha512-nO7bN+nO2/czgKSvPx6ewqpfb8xXOyns06uovWpAXSH4jYoiZ6CHTHhOKrOL/3SRkhUV9u+EUXTTAOSBkS+OBA==
@@ -248,10 +248,10 @@
   resolved "https://registry.npmjs.org/@angular/language-service/-/language-service-18.0.5.tgz"
   integrity sha512-ahZnsUk8q/4k+okP9hBcfWRiOiMximSAI7Vq5M/fe9cezykt8cWEzxgRoduTvDKoQPqcRl0nHlDYju2zkXcU6g==
 
-"@angular/material@^17.0.4":
-  version "17.2.2"
-  resolved "https://registry.npmjs.org/@angular/material/-/material-17.2.2.tgz"
-  integrity sha512-ToUp8gARTvdze9L7jhEuKqdos221jUCMRD6qzhl07XZRlxVbf/5VXUq2Nn7ei9uN11Ii1UY5pC0GS2XtlyHp4A==
+"@angular/material@^18.0.5":
+  version "18.0.5"
+  resolved "https://registry.npmjs.org/@angular/material/-/material-18.0.5.tgz"
+  integrity sha512-8xCyEs9yT7tp7vSBcVww+Adt2ue0oFG2yfISYRNweg0RXC9qk64DDhcIyYhn92xLSnFH1q6mPcjrNw8RmhA10A==
   dependencies:
     "@material/animation" "15.0.0-canary.7f224ddd4.0"
     "@material/auto-init" "15.0.0-canary.7f224ddd4.0"
@@ -296,6 +296,7 @@
     "@material/tab-scroller" "15.0.0-canary.7f224ddd4.0"
     "@material/textfield" "15.0.0-canary.7f224ddd4.0"
     "@material/theme" "15.0.0-canary.7f224ddd4.0"
+    "@material/tokens" "15.0.0-canary.7f224ddd4.0"
     "@material/tooltip" "15.0.0-canary.7f224ddd4.0"
     "@material/top-app-bar" "15.0.0-canary.7f224ddd4.0"
     "@material/touch-target" "15.0.0-canary.7f224ddd4.0"
@@ -309,7 +310,7 @@
   dependencies:
     tslib "^2.3.0"
 
-"@angular/platform-browser@^17.0.0 || ^18.0.0", "@angular/platform-browser@^18.0.5", "@angular/platform-browser@18.0.5":
+"@angular/platform-browser@^18.0.0 || ^19.0.0", "@angular/platform-browser@^18.0.5", "@angular/platform-browser@18.0.5":
   version "18.0.5"
   resolved "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-18.0.5.tgz"
   integrity sha512-hBKaGz7dhsjNhD0aWB8G2/YZQ/MaBhzFIQSAZMPs2ccAqH1Jx772/Y11k57seA3VaPpnL8WZ1apOSJgALUJ//w==
