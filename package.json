@@ -3,7 +3,7 @@
   "version": "18.0.5",
   "build": 0,
   "license": "MIT",
-  "private": true,
+  "private": false,
   "description": "ngx-mat-timepicker is an Angular material 9+ extension to add time pickers!",
   "homepage": "https://tonysamperi.github.io/ngx-mat-timepicker",
   "repository": {
