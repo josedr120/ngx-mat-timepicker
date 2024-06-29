@@ -281,5 +281,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [url-bundle]: https://img.shields.io/bundlephobia/minzip/ngx-mat-timepicker
 [url-ci-state]: https://github.com/tonysamperi/ngx-mat-timepicker/actions
 [url-licence]: https://github.com/tonysamperi/ngx-mat-timepicker/blob/master/LICENSE
-[url-npm]: https://www.npmjs.com/package/ngx-mat-timepicker
+[url-npm]: https://www.npmjs.com/package/ngx-mat-timepicker-plus
 [url-openbase]: https://openbase.com/js/ngx-mat-timepicker
